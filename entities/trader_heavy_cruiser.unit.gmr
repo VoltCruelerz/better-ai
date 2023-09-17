@@ -1,0 +1,16 @@
+{
+    "ai":
+    {
+        "priority_bonus_per_attack_target_type":
+        {
+            "capital": 10.0,
+            "light_frigate": 5.0,
+            "antifighter_frigate": 5.0
+        },
+        "auto_follow_target_priority": 5.0
+    },
+    "ai_attack_target":
+    {
+        "attack_priority": 50.0
+    }
+}

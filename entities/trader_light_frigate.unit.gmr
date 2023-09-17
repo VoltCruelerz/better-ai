@@ -1,0 +1,13 @@
+{
+    "ai": {
+        "priority_bonus_per_attack_target_type": {
+            "carrier_cruiser": 6,
+            "antifighter_frigate": 5,
+            "heavy_cruiser": -4.0
+        },
+        "auto_follow_target_priority": 5
+    },
+    "ai_attack_target": {
+        "attack_priority": 50
+    }
+}

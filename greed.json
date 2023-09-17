@@ -1,0 +1,11 @@
+{
+    "name": "Better AI",
+    "author": "Volt Cruelerz",
+    "url": "https://github.com/VoltCruelerz/better-ai",
+    "description": "Improves AI heuristics.",
+    "version": "0.1.0",
+    "sinsVersion": "1.15.1.0",
+    "greedVersion": "1.6.0",
+    "dependencies": [],
+    "conflicts": []
+}

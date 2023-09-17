@@ -1,0 +1,26 @@
+{
+    "ai": {
+        "priority_bonus_per_attack_target_type": {
+            "light_frigate": 5.0,
+            "carrier_cruiser": 5.0,
+            "titan": 3.0,
+            "defense_structure": -2.0,
+            "corvette": -2.0,
+            "heavy_cruiser": -5.0
+        },
+        "behaviors": [
+            "auto_attack_threats",
+            "auto_bomb_planet",
+            "auto_attack_non_threats"
+        ],
+        "auto_follow_target_priority": 5,
+        "targets_to_ignore_filter_id": "strikecraft_and_torpedo_units"
+    },
+    "ai_attack_target": {
+        "attack_priority": 50,
+        "is_always_a_threat": true,
+        "attack_target_types": [
+            "capital"
+        ]
+    }
+}

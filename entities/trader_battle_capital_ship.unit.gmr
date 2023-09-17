@@ -1,0 +1,17 @@
+{
+    "ai": {
+        "priority_bonus_per_attack_target_type": {
+            
+            "capital": 5.0,
+            "titan": 3.0,
+            "defense_structure": 2.0,
+            "light_frigate": 1.5,
+            "heavy_cruiser": 1.0,
+            "antifighter_frigate": -1,
+            "corvette": -2
+        }
+    },
+    "ai_attack_target": {
+        "attack_priority": 50
+    }
+}

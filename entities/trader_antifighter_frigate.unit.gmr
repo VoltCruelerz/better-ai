@@ -1,0 +1,21 @@
+{
+    "ai": {
+        "priority_bonus_per_attack_target_type": {
+            "heavy_cruiser": -5.0,
+            "torpedo": 6,
+            "fighter_strikecraft": 5,
+            "bomber_strikecraft": 5
+        },
+        "behaviors": [
+            "auto_attack_all"
+        ],
+        "auto_follow_target_priority": 4
+    },
+    "ai_attack_target": {
+        "attack_priority": 50,
+        "is_always_a_threat": true,
+        "attack_target_types": [
+            "antifighter_frigate"
+        ]
+    }
+}
