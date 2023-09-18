@@ -2,10 +2,14 @@
     "name": "Better AI",
     "author": "Volt Cruelerz",
     "url": "https://github.com/VoltCruelerz/better-ai",
-    "description": "Improves AI heuristics.",
-    "version": "0.1.0",
+    "description": "Improves AI prioritization heuristics for the base game. Do not use with balance mods.",
+    "version": "1.0.0",
     "sinsVersion": "1.15.1.0",
-    "greedVersion": "1.6.0",
+    "greedVersion": "1.8.1",
     "dependencies": [],
-    "conflicts": []
+    "conflicts": [
+        "useful-units",
+        "kol-options",
+        "Gauss Mod 1.1"
+    ]
 }
