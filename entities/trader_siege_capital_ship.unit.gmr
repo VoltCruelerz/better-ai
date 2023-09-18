@@ -1,4 +1,5 @@
 {
+    // Focus on killing fleets because capital shield mitigation is the bane of the Marza.
     "ai": {
         "priority_bonus_per_attack_target_type": {
             "light_frigate": 5.0,

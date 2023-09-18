@@ -1,4 +1,5 @@
 {
+    // Lean into air superiority.
     "ai": {
         "priority_bonus_per_attack_target_type": {
             "torpedo": 7,

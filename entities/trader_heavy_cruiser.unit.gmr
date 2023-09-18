@@ -1,4 +1,5 @@
 {
+    // Focus on meatier targets and HC's smaller cousins (because LF are overpowered).
     "ai":
     {
         "priority_bonus_per_attack_target_type":

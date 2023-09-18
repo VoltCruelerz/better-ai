@@ -1,4 +1,5 @@
 {
+    // Focus on their classic counters.
     "ai": {
         "priority_bonus_per_attack_target_type": {
             "carrier_cruiser": 6,

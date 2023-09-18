@@ -1,12 +1,12 @@
 {
     "files.associations": {
-        "*.unit*": "json",
-        "*.entity*": "json",
-        "*.ability": "json",
-        "*.buff": "json",
-        "*.player": "json",
-        "*.weapon": "json",
-        "*.localized_text": "json"
+        "*.unit*": "jsonc",
+        "*.entity*": "jsonc",
+        "*.ability": "jsonc",
+        "*.buff": "jsonc",
+        "*.player": "jsonc",
+        "*.weapon": "jsonc",
+        "*.localized_text": "jsonc"
     },
     "peacock.color": "#2a2601",
     "workbench.colorCustomizations": {

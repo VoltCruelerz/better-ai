@@ -1,4 +1,5 @@
 {
+    // Simulation shows that shooting down missiles slightly reduces DPS while substantially improving survivability.
     "ai": {
         "priority_bonus_per_attack_target_type": {
             "heavy_cruiser": -5.0,

@@ -1,4 +1,5 @@
 {
+    // Prioritize killing other capitals. Ignore corvettes, which are hard to target.
     "ai": {
         "priority_bonus_per_attack_target_type": {
             

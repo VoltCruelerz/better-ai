@@ -1,4 +1,5 @@
 {
+    // Don't bother hitting HCs because they're bad. Focus other big targets.
     "ai":
     {
         "priority_bonus_per_attack_target_type":
