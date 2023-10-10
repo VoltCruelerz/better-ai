@@ -1,0 +1,19 @@
+{
+    // Don't bother hitting HCs because they're bad. Focus other big targets.
+    "ai":
+    {
+        "priority_bonus_per_attack_target_type":
+        {
+            "heavy_cruiser": -5.0,
+            "capital": 5.0,
+            "titan": 3.0,
+            "defense_structure": 2.0
+        },
+        "auto_follow_target_priority": 5.0
+    },
+    "ai_attack_target":
+    {
+        "attack_priority": 50.0,
+        "is_always_a_threat": true
+    }
+}
